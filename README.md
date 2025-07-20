@@ -43,6 +43,14 @@
 ## 🚀 Projects
 
 
+### [✨ Common CRM Project – 커몬학습](https://github.com/june6797/Common)
+
+> Salesforce를 활용한 고객문의 자동화 및 CRM 설계 프로젝트  
+
+- 가상 기업 '커몬학습'의 고객 지원 문제를 CRM으로 해결  
+- Web HTML 폼, Salesforce DX 기반 LWC 개발 포함  
+- Vercel 배포 및 Org 연동 실습 진행
+
 ---
 
 ## 📚 Studying
