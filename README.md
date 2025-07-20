@@ -1,9 +1,19 @@
 # June 😉
+<p align="left">
+  <a href="mailto:june6797@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+  </a>
+  <a href="mailto:june6797@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+<p align="right">
+  <a href="https://github.com/june6797">
+    <img src="https://komarev.com/ghpvc/?username=june6797&color=orange" alt="visitor badge"/>
+  </a>
+</p>
 
-[![Visit](https://komarev.com/ghpvc/?username=june6797&color=orange)](https://github.com/june6797)
-[![Naver](https://img.shields.io/badge/Naver_Mail-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:june6797@naver.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:june6797@gmail.com)
-    
+
 ---
 
 ## 👋 About Me  
