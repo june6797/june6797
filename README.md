@@ -77,10 +77,3 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=june6797&theme=warm)
 
 ---
-
-## 📊 GitHub Stats
-
-![june6797's GitHub stats](https://github-readme-stats.vercel.app/api?username=june6797&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=june6797&layout=compact)
-
----
